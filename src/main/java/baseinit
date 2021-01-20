@@ -1,0 +1,1 @@
+INIT=runscript from 'src/main/resources/schema.sql'\\;runscript from 'src/main/resources/data.sql'
